@@ -1,0 +1,6 @@
+streamlit
+rdkit-pypi
+pandas
+joblib
+requests
+Pillow
